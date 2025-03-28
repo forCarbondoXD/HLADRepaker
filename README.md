@@ -1,4 +1,5 @@
 # HLADRepaker | HLAD Repacker
+##### READMEs: [简体中文](READMEs/README_ZH_CN.md) [English](README.md)
 ### HLAD Repacker, an auto webp to png converter and packer
 
 #### 📚 Usage:
