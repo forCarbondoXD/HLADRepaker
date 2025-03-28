@@ -1,5 +1,5 @@
 # HLADRepaker | HLAD 打包器
-##### READMEs: [简体中文](READMEs/README_ZH_CN.md) [English](README.md)
+##### READMEs: [简体中文](README_ZH_CN.md) [English](../README.md)
 ### HLAD 打包器, 一个自动的webp转png转换器和解包器
 
 #### 📚 用法:
